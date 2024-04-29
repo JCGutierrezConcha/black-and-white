@@ -1,2 +1,2 @@
-# black-and-white
-En este desafío utilizaremos procesamiento de imágenes con la librería JIMP.
+# Black and White
+En este desafío realizaremos procesamiento de imágenes utilizando la librería JIMP.
